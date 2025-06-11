@@ -41,6 +41,7 @@ cd Kcell_TZ
 ```bash
 pip install -r requirements.txt
 ```
+### 2. Запуск
 ```bash
 python main.py
 ```
