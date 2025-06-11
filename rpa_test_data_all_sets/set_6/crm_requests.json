@@ -1,0 +1,14 @@
+[
+  {
+    "client_id": "B6_C1003",
+    "address": "ул. Сатпаева, 17",
+    "assigned_port": "PORT-2",
+    "request_date": "2025-06-09"
+  },
+  {
+    "client_id": "B6_C1004",
+    "address": "ул. Сатпаева, 17",
+    "assigned_port": "PORT-3",
+    "request_date": "2025-06-08"
+  }
+]

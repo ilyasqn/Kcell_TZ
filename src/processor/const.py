@@ -1,0 +1,1 @@
+AVAILABLE_PORTS = {"PORT-1", "PORT-2", "PORT-3"}

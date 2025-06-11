@@ -1,0 +1,52 @@
+[
+  {
+    "client_id": "B4_C1000",
+    "address": "ул. Розыбакиева, 77",
+    "request_date": "2025-06-05"
+  },
+  {
+    "client_id": "B4_C1001",
+    "address": "ул. Чехова, 8",
+    "request_date": "2025-06-01"
+  },
+  {
+    "client_id": "B4_C1002",
+    "address": "пр. Назарбаева, 33",
+    "request_date": "2025-06-07"
+  },
+  {
+    "client_id": "B4_C1003",
+    "address": "ул. Жандосова, 50",
+    "request_date": "2025-06-06"
+  },
+  {
+    "client_id": "B4_C1004",
+    "address": "ул. Чехова, 8",
+    "request_date": "2025-06-06"
+  },
+  {
+    "client_id": "B4_C1005",
+    "address": "ул. Толе би, 45",
+    "request_date": "2025-06-07"
+  },
+  {
+    "client_id": "B4_C1006",
+    "address": "пр. Назарбаева, 33",
+    "request_date": "2025-06-06"
+  },
+  {
+    "client_id": "B4_C1007",
+    "address": "ул. Розыбакиева, 77",
+    "request_date": "2025-06-08"
+  },
+  {
+    "client_id": "B4_C1008",
+    "address": "ул. Толе би, 45",
+    "request_date": "2025-06-03"
+  },
+  {
+    "client_id": "B4_C1009",
+    "address": "пр. Абая, 100",
+    "request_date": "2025-06-08"
+  }
+]

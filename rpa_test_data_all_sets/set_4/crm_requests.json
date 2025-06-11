@@ -1,0 +1,14 @@
+[
+  {
+    "client_id": "B4_C1001",
+    "address": "ул. Чехова, 8",
+    "assigned_port": "PORT-2",
+    "request_date": "2025-06-01"
+  },
+  {
+    "client_id": "B4_C1003",
+    "address": "ул. Жандосова, 50",
+    "assigned_port": "PORT-1",
+    "request_date": "2025-06-06"
+  }
+]

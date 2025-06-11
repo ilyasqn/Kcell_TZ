@@ -1,0 +1,20 @@
+[
+  {
+    "client_id": "B10_C1002",
+    "address": "ул. Жандосова, 50",
+    "assigned_port": "PORT-2",
+    "request_date": "2025-06-06"
+  },
+  {
+    "client_id": "B10_C1004",
+    "address": "ул. Гагарина, 23",
+    "assigned_port": "PORT-1",
+    "request_date": "2025-06-09"
+  },
+  {
+    "client_id": "B10_C1005",
+    "address": "ул. Ленина, 1",
+    "assigned_port": "PORT-3",
+    "request_date": "2025-06-01"
+  }
+]
